@@ -184,9 +184,7 @@ button {
     color: var(--black-clr);
 }
 
-/* .show-scroll {
-    bottom: 3rem;
-} */
+
 
 .header {
     position: absolute;
@@ -505,11 +503,9 @@ button {
     width: 30px;
     background-color: var(--yellow-clr);
 }
-/**Facts**/
 .facts {
     margin-bottom: 1.5rem;
 }
-/**Gallery**/
 .gallery {
     background: transparent;
   }
@@ -785,7 +781,7 @@ button {
 .footer-container {
     border-block-start: 1px solid var(--border-clr);
     padding-top: 1rem;
-    margin-inline: 15px;
+    /* margin-inline: 15px; */
     width: 100%;
     display: flex;
     justify-content: center;
